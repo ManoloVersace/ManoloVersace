@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManoloVersace
+- 👋 Hola, me llamo @ManoloVersace
 - 👀 Dentro de mis principales intereses se encuentra el desarrollo de software, la seguridad web y el diseño web. 
 - 📚 Los últimos lenguajes que aprendí son: Kotlin y Python 
 - 📫 Medio de contacto: Email: soto.manuel10@yahoo.com o Instagram: @manolo_cinematica
