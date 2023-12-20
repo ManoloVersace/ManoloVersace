@@ -1,5 +1,5 @@
 - 👋 Hola, me llamo @ManoloVersace
 - 👀 Dentro de mis principales intereses se encuentra el desarrollo de software, la seguridad web y el diseño web. 
-- 📚 Los últimos lenguajes que aprendí son: Kotlin y Python 
+- 📚 Los últimos lenguajes que aprendí son: Kotlin y MariaDB, Postgres, SQL (XAMPP y WorkBench).
 - 📫 Medio de contacto: Email: soto.manuel10@yahoo.com o Instagram: @manolo_cinematica
 - Alguno de los lenguajes que manejo son: C, Java, Python, Kotlin, JavaScript, HTML5 y CSS3 
